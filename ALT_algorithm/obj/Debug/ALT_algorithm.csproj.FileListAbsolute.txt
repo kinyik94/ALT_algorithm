@@ -1,0 +1,12 @@
+e:\Browser_downloads\ALT_alg\ALT_algorithm\bin\Debug\ALT_algorithm.exe.config
+e:\Browser_downloads\ALT_alg\ALT_algorithm\bin\Debug\ALT_algorithm.exe
+e:\Browser_downloads\ALT_alg\ALT_algorithm\bin\Debug\ALT_algorithm.pdb
+e:\Browser_downloads\ALT_alg\ALT_algorithm\obj\Debug\ALT_algorithm.csprojResolveAssemblyReference.cache
+e:\Browser_downloads\ALT_alg\ALT_algorithm\obj\Debug\ALT_algorithm.Form1.resources
+e:\Browser_downloads\ALT_alg\ALT_algorithm\obj\Debug\ALT_algorithm.Properties.Resources.resources
+e:\Browser_downloads\ALT_alg\ALT_algorithm\obj\Debug\ALT_algorithm.csproj.GenerateResource.Cache
+e:\Browser_downloads\ALT_alg\ALT_algorithm\obj\Debug\ALT_algorithm.exe
+e:\Browser_downloads\ALT_alg\ALT_algorithm\obj\Debug\ALT_algorithm.pdb
+c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\bin\Debug\ALT_algorithm.exe.config
+c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Debug\ALT_algorithm.exe
+c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Debug\ALT_algorithm.pdb

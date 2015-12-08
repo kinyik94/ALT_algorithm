@@ -1,0 +1,9 @@
+c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\bin\Release\ALT_algorithm.exe.config
+c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\bin\Release\ALT_algorithm.exe
+c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\bin\Release\ALT_algorithm.pdb
+c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Release\ALT_algorithm.csprojResolveAssemblyReference.cache
+c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Release\ALT_algorithm.Form1.resources
+c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Release\ALT_algorithm.Properties.Resources.resources
+c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Release\ALT_algorithm.csproj.GenerateResource.Cache
+c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Release\ALT_algorithm.exe
+c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Release\ALT_algorithm.pdb
