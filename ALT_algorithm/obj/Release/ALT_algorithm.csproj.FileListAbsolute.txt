@@ -7,3 +7,12 @@ c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Release\ALT_algorithm.Proper
 c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Release\ALT_algorithm.csproj.GenerateResource.Cache
 c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Release\ALT_algorithm.exe
 c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Release\ALT_algorithm.pdb
+C:\Users\KBence\Documents\_school\ALT_algorithm\ALT_algorithm\bin\Release\ALT_algorithm.exe.config
+C:\Users\KBence\Documents\_school\ALT_algorithm\ALT_algorithm\obj\Release\ALT_algorithm.exe
+C:\Users\KBence\Documents\_school\ALT_algorithm\ALT_algorithm\obj\Release\ALT_algorithm.pdb
+C:\Users\KBence\Documents\_school\ALT_algorithm\ALT_algorithm\bin\Release\ALT_algorithm.exe
+C:\Users\KBence\Documents\_school\ALT_algorithm\ALT_algorithm\bin\Release\ALT_algorithm.pdb
+C:\Users\KBence\Documents\_school\ALT_algorithm\ALT_algorithm\obj\Release\ALT_algorithm.csprojResolveAssemblyReference.cache
+C:\Users\KBence\Documents\_school\ALT_algorithm\ALT_algorithm\obj\Release\ALT_algorithm.Form1.resources
+C:\Users\KBence\Documents\_school\ALT_algorithm\ALT_algorithm\obj\Release\ALT_algorithm.Properties.Resources.resources
+C:\Users\KBence\Documents\_school\ALT_algorithm\ALT_algorithm\obj\Release\ALT_algorithm.csproj.GenerateResource.Cache

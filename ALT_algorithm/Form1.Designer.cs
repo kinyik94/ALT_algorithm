@@ -53,6 +53,7 @@ namespace ALT_algorithm
             this.timeTitle = new System.Windows.Forms.Label();
             this.graphPanel = new System.Windows.Forms.Panel();
             this.AnimateTimer = new System.Windows.Forms.Timer(this.components);
+            this.ClearButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -106,6 +107,7 @@ namespace ALT_algorithm
             // ControlPanel
             // 
             this.ControlPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ControlPanel.Controls.Add(this.ClearButton);
             this.ControlPanel.Controls.Add(this.button1);
             this.ControlPanel.Controls.Add(this.label4);
             this.ControlPanel.Controls.Add(this.checkedListBox1);
@@ -153,7 +155,6 @@ namespace ALT_algorithm
             "Planar with inside points",
             "Random",
             "Shortest points from a random point"});
-            this.checkedListBox1.SetItemChecked(0, true);
             this.checkedListBox1.Location = new System.Drawing.Point(11, 301);
             this.checkedListBox1.Name = "checkedListBox1";
             this.checkedListBox1.Size = new System.Drawing.Size(223, 60);
@@ -317,6 +318,16 @@ namespace ALT_algorithm
             // 
             this.AnimateTimer.Tick += new System.EventHandler(this.AnimateTimer_Tick);
             // 
+            // ClearButton
+            // 
+            this.ClearButton.Location = new System.Drawing.Point(305, 218);
+            this.ClearButton.Name = "ClearButton";
+            this.ClearButton.Size = new System.Drawing.Size(75, 23);
+            this.ClearButton.TabIndex = 0;
+            this.ClearButton.Text = "Clear";
+            this.ClearButton.UseVisualStyleBackColor = true;
+            this.ClearButton.Click += new System.EventHandler(this.ClearButton_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -370,6 +381,7 @@ namespace ALT_algorithm
         private Label label4;
         private CheckedListBox checkedListBox1;
         private Button button1;
+        private Button ClearButton;
 
     }
 }

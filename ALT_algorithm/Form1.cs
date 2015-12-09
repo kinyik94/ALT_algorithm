@@ -190,5 +190,11 @@ namespace ALT_algorithm
             }
         }
 
+        private void ClearButton_Click(object sender, EventArgs e)
+        {
+            _graph.Clear(AnimateTimer);
+            graphPanel.Invalidate();
+        }
+
     }
 }

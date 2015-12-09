@@ -10,3 +10,6 @@ e:\Browser_downloads\ALT_alg\ALT_algorithm\obj\Debug\ALT_algorithm.pdb
 c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\bin\Debug\ALT_algorithm.exe.config
 c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Debug\ALT_algorithm.exe
 c:\Users\KBence\Downloads\Alt_alg\ALT_algorithm\obj\Debug\ALT_algorithm.pdb
+C:\Users\KBence\Documents\_school\ALT_algorithm\ALT_algorithm\bin\Debug\ALT_algorithm.exe.config
+C:\Users\KBence\Documents\_school\ALT_algorithm\ALT_algorithm\obj\Debug\ALT_algorithm.exe
+C:\Users\KBence\Documents\_school\ALT_algorithm\ALT_algorithm\obj\Debug\ALT_algorithm.pdb

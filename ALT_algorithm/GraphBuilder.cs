@@ -426,5 +426,19 @@ namespace ALT_algorithm
             return false;
         }
 
+        public void Clear(Timer animateTimer)
+        {
+            if(animateTimer.Enabled)
+                animateTimer.Stop();
+            startNode = null;
+            endNode = null;
+            ReachedNodes.Clear();
+            ParentNodes.Clear();
+            ResultNodes.Clear();
+            SettledNodes.Clear();
+            SettledEdges.Clear();
+            ResultEdges.Clear();
+        }
+
     }
 }
